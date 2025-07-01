@@ -1,0 +1,3 @@
+<FilesMatch "\.(crt|pem|key|p12)$">
+    Require all denied
+</FilesMatch>
